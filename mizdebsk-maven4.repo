@@ -1,0 +1,5 @@
+[mizdebsk-maven4]
+name=mizdebsk-maven4
+baseurl=https://mizdebsk.fedorapeople.org/maven4-rpms
+enabled=1
+gpgcheck=0
